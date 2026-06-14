@@ -121,5 +121,5 @@ QuickBite-Analytics/
 
 ## 👤 Author
 
-**Aryan** — Aspiring Data Analyst  
+**Aryan Chauhan** — Aspiring Data Analyst  
 B.Tech Computer Science & Design | GCET, CVM University  
