@@ -81,6 +81,24 @@ This project covers the full data analytics workflow:
 | Customer Behaviour | Age group orders, premium vs regular, peak hours, top 10 customers by spend |
 | Complaint Analysis | Complaint types, resolution status, city-wise complaints, monthly trend |
 
+## 📸 Dashboard Preview
+
+### Revenue Overview
+![Revenue Overview](<img width="1409" height="811" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/0fdbc49a-d926-468b-8b30-0335d48a0403" />
+)
+
+### City & Delivery Performance
+![City & Delivery Performance](<img width="1401" height="810" alt="Screenshot (206)" src="https://github.com/user-attachments/assets/e748c470-6553-4084-8640-a7b95a6a05a4" />
+)
+
+### Customer Behaviour
+![Customer Behaviour](<img width="1408" height="808" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/d5ab1dc4-2757-4cf4-9475-2ee1f87395d4" />
+)
+
+### Complaint Analysis
+![Complaint Analysis](<img width="1401" height="800" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/1bdbc144-42a7-4280-a0b3-0b232223a1f8" />
+)
+
 ---
 
 ## 🛠️ Tech Stack
