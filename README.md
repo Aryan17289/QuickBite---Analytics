@@ -112,11 +112,17 @@ QuickBite-Analytics/
 
 ## 🚀 How to Run
 
-1. Run `schema.sql` in MySQL Workbench to create the database
-2. Run `python generate_data.py` to populate all tables
-3. Open `analysis_queries.sql` in MySQL Workbench to explore queries
-4. Open `dashboard.pbix` in Power BI Desktop (connect to your local MySQL)
-
+1. Run `schema.sql` in MySQL Workbench to create the database and all 5 tables
+2. Run `python generate_data.py` to populate all tables with 50,000 rows of synthetic data
+3. Open the SQL query files in MySQL Workbench to explore business analysis:
+   - `query1.sql` — Total revenue by city
+   - `Monthly_revenue_trend.sql` — Monthly revenue trend
+   - `Revenue_by_cuisine_type.sql` — Revenue by cuisine type
+   - `Discount impact on revenue.sql` — Discount impact on revenue
+   - `Top 10 highest revenue restaurants.sql` — Top 10 revenue restaurants
+   - `total_revenue_city.sql` — Total revenue by city breakdown
+   - `Remaining_queries.sql` — Categories 2–5 (20 queries covering city performance, rider analytics, customer behaviour, and complaint analysis)
+4. Open `dashboard.pbix` in Power BI Desktop and connect to your local MySQL instance to view the interactive dashboard
 ---
 
 ## 👤 Author
